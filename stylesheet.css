@@ -2,6 +2,11 @@
 h1, 
 .english-title {color: lightpink; font-family: "Lucida Grande", sans-serif;}
 
-h1{background-color: papayawhip}
+h1{background-color: papayawhip;}
 
-.recipe {color: peachpuff; font-family: "Lucida Grande", sans-serif; background-color:aliceblue;}
+.recipe 
+{
+    color: peachpuff; 
+    font-family: "Lucida Grande", sans-serif; background-color:aliceblue;
+}
+#food{height: auto; width: 100%;}
